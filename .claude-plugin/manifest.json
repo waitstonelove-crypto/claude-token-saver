@@ -1,0 +1,15 @@
+{
+  "name": "project-memory",
+  "version": "1.0.0",
+  "description": "项目记忆管理 —— 自动保存技术栈、架构决策、Bug、偏好、外部资源，支持搜索召回和对话联想。纯文件驱动零依赖。 / Project memory: auto-save tech stack, decisions, bugs, preferences, references with search & auto-recall. File-driven, zero deps.",
+  "author": "Claude Code Community",
+  "license": "MIT",
+  "keywords": ["memory", "project", "context", "knowledge-management"],
+  "skills": [
+    {
+      "name": "project-memory",
+      "path": "SKILL.md",
+      "description": "Manage project-specific memories with auto-save, search, and lifecycle management"
+    }
+  ]
+}
