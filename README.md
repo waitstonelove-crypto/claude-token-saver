@@ -9,14 +9,14 @@ Let Claude Code automatically remember the current project's tech stack, archite
 ### Method 1: Claude Code Plugin Marketplace (Recommended) / 方式 1: Claude Code 插件市场（推荐）
 
 ```
-/claude plugins install project-memory
+/claude plugins install token-saver
 ```
 
 ### Method 2: Manual Install / 方式 2: 手动安装
 
 ```bash
-git clone https://github.com/<your-repo>/claude-project-memory.git
-cp -r claude-project-memory ~/.claude/skills/project-memory/
+git clone https://github.com/<your-repo>/claude-token-saver.git
+cp -r claude-token-saver ~/.claude/skills/token-saver/
 ```
 
 ### Method 3: In-Project Install (Team Sharing) / 方式 3: 项目内安装（团队共享）
@@ -29,9 +29,9 @@ Copy `SKILL.md` to the project's `.claude/skills/` directory.
 
 ### Initialize / 初始化
 
-After starting Claude Code in the project root, activate the plugin with `/project-memory`.
+After starting Claude Code in the project root, activate the plugin with `/token-saver`.
 
-在项目根目录启动 Claude Code 后，使用 `/project-memory` 命令激活插件。
+在项目根目录启动 Claude Code 后，使用 `/token-saver` 命令激活插件。
 
 Claude will automatically check if `.claude/memory/MEMORY.md` exists. On first use, it auto-initializes the first time you say something worth remembering.
 

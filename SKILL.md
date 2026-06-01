@@ -1,5 +1,5 @@
 ---
-name: project-memory
+name: token-saver
 description: 项目记忆管理 / Project Memory Manager — 自动保存技术栈、架构决策、Bug、偏好、外部资源，支持搜索召回和对话联想。纯文件驱动，零外部依赖。Auto-save tech stack, decisions, bugs, preferences, references with search & auto-recall. File-driven, zero deps.
 ---
 
