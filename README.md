@@ -1,4 +1,4 @@
-# Claude Code Project Memory Plugin / Claude Code 项目记忆插件
+#TOKEN SAVER/ Claude Code Project Memory Plugin / Claude Code 项目记忆插件
 
 Let Claude Code automatically remember the current project's tech stack, architectural decisions, known bugs, preferences, and external resources. Pure file-driven, zero external dependencies.
 
